@@ -10,7 +10,7 @@ git clone https://github.com/ncysatnaf/GraphQL-example-with-Koa2
 
 ### start Server
 ```bash
-$ npm start
+$ npm start -p 3000
 ```
 
 ### run client
