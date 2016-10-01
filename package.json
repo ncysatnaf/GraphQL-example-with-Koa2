@@ -1,7 +1,7 @@
 {
-  "name": "graphql-node-mongoose-example",
+  "name": "graphql-Koa2-example",
   "version": "0.0.1",
-  "description": "GraphQL example with Mongoose and Node",
+  "description": "GraphQL example with Koa2",
   "main": "index.js",
   "dependencies": {
     "graphql": "^0.7.1",
